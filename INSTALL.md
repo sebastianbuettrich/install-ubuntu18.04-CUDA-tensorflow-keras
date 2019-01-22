@@ -1,5 +1,7 @@
 ### Final working configuration:
 
+- GTX 1060 card 
+-- for Turing cards such 20070 you will need driver >410
 - Ubuntu 18.04
 - nvidia-390 drivers forom PPA repo
 - CUDA 9.0 (downloaded for Ubuntu 17.04 version; install but make sure to ignore driver)
@@ -140,7 +142,7 @@ and activate it
 
 `conda activate py36tfnew`
 
-Make sure python 3.7 is loaded, by typing
+Make sure python 3.6 is loaded, by typing
 
 `python`
 
